@@ -28,4 +28,4 @@ Diagram ini menunjukkan fungsi-fungsi utama yang dapat dilakukan oleh Pelanggan,
 - Mendukung Verifikasi Pembayaran
 
 ## Diagram
-![Use Case Diagram](Use-Case_Sewa-Lap-Padel.png)
+![Use Case Diagram](Use-Case-Sewa-Lap-Padel.png)
