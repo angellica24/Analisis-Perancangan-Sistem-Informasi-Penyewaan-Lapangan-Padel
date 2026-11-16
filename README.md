@@ -84,22 +84,15 @@ The system analysis and design documentation is organized into the following dir
 - `07-ERD/`
 - `08-Class-Diagram/`
 
+
 ## 6. UI/UX Prototype
 
-The project includes a 33-screen Figma prototype designed to illustrate the proposed system interfaces and user interactions.
+The project includes a UI/UX prototype designed to illustrate the proposed PadelSpot mobile application and its user interactions.
 
-The prototype consists of three main interfaces:
+The prototype demonstrates the customer booking experience, including court selection, schedule availability, reservation, and other related booking processes.
 
-| Interface | Number of Screens |
-|---|---:|
-| Customer Mobile Application | 18 |
-| Administrator Operational Dashboard | 9 |
-| Business Owner Portal | 6 |
-| **Total** | **33** |
+**Figma Prototype:** [View PadelSpot Mobile App Design](https://www.figma.com/make/vlS0wQqiqRMQbJIdQJhpcP/PadelSpot-Mobile-App-UI-Design)
 
-The prototype covers the proposed booking management workflows and provides an overview of how customers, administrators, and business owners interact with the system.
-
-**Figma Prototype:** [View PadelSpot Design System](https://www.figma.com/make/Bh2hShOhstsV1BGSijldF4/Design-System-for-PadelSpot)
 
 ## 7. Tools and Technologies
 
