@@ -94,6 +94,31 @@ The prototype demonstrates the customer booking experience, including court sele
 **Figma Prototype:** [View PadelSpot Mobile App Design](https://www.figma.com/make/vlS0wQqiqRMQbJIdQJhpcP/PadelSpot-Mobile-App-UI-Design)
 
 
+### Customer Mobile Application
+
+The following screenshots illustrate the main user journey of the PadelSpot mobile application, from browsing available courts to completing a reservation.
+
+**01. Home Screen**
+
+![Home Screen](09-UI-UX-Prototype/customer-mobile-app/01-home-screen.png)
+
+**02. Court Detail**
+
+![Court Detail](09-UI-UX-Prototype/customer-mobile-app/02-court-detail.png)
+
+**03. Schedule Selection**
+
+![Schedule Selection](09-UI-UX-Prototype/customer-mobile-app/03-schedule-selection.png)
+
+**04. Booking and Payment**
+
+![Booking and Payment](09-UI-UX-Prototype/customer-mobile-app/04-booking-payment.png)
+
+**05. Booking Confirmation**
+
+![Booking Confirmation](09-UI-UX-Prototype/customer-mobile-app/05-booking-confirmation.png)
+
+
 ## 7. Tools and Technologies
 
 | Tool / Technology | Purpose |
