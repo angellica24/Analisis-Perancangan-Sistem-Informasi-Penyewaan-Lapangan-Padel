@@ -1,61 +1,104 @@
-# Sistem Informasi Penyewaan Lapangan Padel
+# PadelSpot – Padel Court Rental Information System
 
-## Deskripsi
-Sistem Informasi Penyewaan Lapangan Padel merupakan sistem berbasis web yang dirancang untuk membantu proses penyewaan lapangan padel secara online. Sistem ini memungkinkan pelanggan melakukan registrasi, login, melihat daftar lapangan, memilih jadwal, melakukan booking, melakukan pembayaran, serta menerima bukti booking secara digital.
+## 1. Project Overview
 
-Selain itu, sistem menyediakan fitur administrasi yang memungkinkan admin mengelola data lapangan, jadwal, harga sewa, transaksi pembayaran, dan laporan penyewaan.
+PadelSpot is an individual academic project focused on the analysis and design of a web-based information system for padel court rental management.
 
-Proyek ini disusun sebagai tugas mata kuliah Analisis dan Perancangan Sistem Informasi (APSI) dengan menggunakan berbagai diagram pemodelan sistem yang dibuat menggunakan PlantUML.
+The proposed system aims to simplify the court booking process by enabling customers to register, access court information, check availability, make reservations, complete payments, and receive digital booking confirmations.
 
-## Tujuan Sistem
-Mempermudah proses penyewaan lapangan padel secara online.
-Menyediakan informasi jadwal lapangan secara real-time.
-Mengurangi risiko terjadinya bentrok jadwal penyewaan.
-Mempermudah proses pembayaran dan verifikasi transaksi.
-Membantu admin dalam mengelola data lapangan dan transaksi.
-Menghasilkan laporan penyewaan dan pendapatan secara terstruktur.
+The system also provides administrative functions for managing court information, schedules, rental prices, bookings, payment verification, and rental reports.
 
-## Aktor Sistem
-1. Pelanggan
-- Registrasi akun
-- Login ke sistem
-- Melihat daftar lapangan
-- Melihat jadwal lapangan
-- Melakukan booking lapangan
-- Melakukan pembayaran
-- Menerima bukti booking
+This project was developed as part of the Information Systems Analysis and Design (APSI) course at Universitas Esa Unggul.
 
-2. Admin
-- Login ke sistem
-- Mengelola data lapangan
-- Mengelola jadwal lapangan
-- Mengelola harga sewa
-- Mengelola data booking
-- Memverifikasi pembayaran
-- Membuat laporan
+## 2. Project Objectives
 
-3. Payment Gateway
-- Memproses pembayaran
-- Mengirim status pembayaran
-- Mendukung verifikasi transaksi
+- Analyze the existing padel court rental business process.
+- Design an improved online booking process.
+- Define system actors and their responsibilities.
+- Model functional processes and data flows.
+- Design a structured database model.
+- Develop a system prototype based on the proposed requirements.
 
-## Diagram yang Digunakan
-1. Deskripsi Sistem
-2. Use Case Diagram
-3. BPMN Diagram
-4. Activity Diagram
-5. DFD Level 0
-6. DFD Level 1
-7. Entity Relationship Diagram (ERD)
-8. Class Diagram
+## 3. System Scope
 
-## Tools
-- PlantUML
-- GitHub
-08-Class-Diagram
-```
+The proposed system involves three main actors:
+
+### Customer
+- Register and log in.
+- View available courts.
+- Check court schedules.
+- Make court reservations.
+- Complete payments.
+- Receive digital booking confirmations.
+
+### Administrator
+- Manage court information.
+- Manage schedules and rental prices.
+- Manage booking transactions.
+- Verify payment status.
+- Generate rental reports.
+
+### Payment Gateway
+- Process payment transactions.
+- Provide payment status information.
+- Support transaction verification.
+
+## 4. Business Process Analysis
+
+The project includes analysis of the existing (As-Is) business process and the proposed (To-Be) business process.
+
+The analysis focuses on improving the reservation workflow, reducing scheduling conflicts, and supporting more structured booking and payment administration.
+
+## 5. System Analysis & Design
+
+The following diagrams were developed to document the proposed system:
+
+| Diagram | Purpose |
+|---|---|
+| System Description | Defines the system scope and overview |
+| Use Case Diagram | Identifies system actors and interactions |
+| BPMN Diagram | Models business processes |
+| Activity Diagram | Describes operational workflows |
+| DFD Level 0 | Illustrates the overall data flow |
+| DFD Level 1 | Details system data processes |
+| ERD | Defines database entities and relationships |
+| Class Diagram | Models the system structure |
+
+## 6. UI/UX Prototype
+
+The project also includes a 33-screen Figma prototype covering three main interfaces:
+
+- Customer Mobile Application
+- Administrator Operational Dashboard
+- Business Owner Portal
+
+The prototype illustrates the proposed user interactions and system workflows.
+
+## 7. Tools & Technologies
+
+| Tool | Purpose |
+|---|---|
+| PlantUML | System modeling and diagram documentation |
+| draw.io | Diagram development |
+| Figma | UI/UX prototyping |
+| GitHub | Project documentation and version management |
+
+## 8. Project Deliverables
+
+- System description and scope.
+- As-Is and To-Be business process analysis.
+- System actor identification.
+- Business process and system diagrams.
+- Database design documentation.
+- UI/UX prototype.
+
+## 9. Project Information
+
+**Project Type:** Individual Academic Project  
+**Course:** Information Systems Analysis and Design  
+**Institution:** Universitas Esa Unggul  
+**Project Focus:** Business Process Analysis and System Design
 
 ---
 
-## Studi Kasus
-Penyewaan Lapangan Padel
+This project demonstrates practical experience in business process analysis, requirements-oriented system design, process modeling, and UI/UX prototyping.
